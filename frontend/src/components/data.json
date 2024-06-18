@@ -1,0 +1,33 @@
+[
+    {
+        "text": "I hope this message finds you well and enthusiastic about our coding journey this semester! As we delve deeper into the world of programming, I wanted to introduce you to a fantastic resource that will complement our learning in the classroom: happyCoding.com.",
+        "image": "https://static.vecteezy.com/system/resources/previews/009/397/892/non_2x/woman-face-expression-clipart-design-illustration-free-png.png",
+        "name": "Suvra Sarkar",
+        "rank": "HOD, CSE"
+    },
+    
+    {
+        "text": "This website offers a plethora of coding tutorials, challenges, and projects suitable for all levels of expertise, from beginners to advanced programmers. Whether you're just starting out with HTML and CSS or diving into more complex languages like Python or JavaScript.",
+        "image": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg",
+        "name": "Raja Khara",
+        "rank": "Lecturer, CSE"
+    },
+    {
+        "text": "I encourage each of you to explore CodingWebsite.com regularly and utilize its resources to enhance your understanding of coding concepts outside of our classroom sessions. Remember, practice is key to mastering programming skills.",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/009/397/835/small_2x/man-avatar-clipart-illustration-free-png.png",
+        "name": "Sayan Kumar Khan",
+        "rank": "Lecturer, CSE"
+    },
+    {
+        "text": "I hope this message finds you well. As part of our ongoing journey to explore the world of coding, I want to introduce you to an incredible resource that will not only enhance your coding skills but also spark your creativity and problem-solving abilities.",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/008/846/297/small_2x/cute-boy-avatar-png.png",
+        "name": "Aparna Jana",
+        "rank": "Lecturer, CSE"
+    },
+    {
+        "text": "happyCoding is an exceptional platform that offers a wide range of coding tutorials, interactive projects, and challenges suitable for all levels of expertise, from beginners to advanced programmers.",
+        "image": "https://png.pngtree.com/png-clipart/20230102/original/pngtree-fashion-boy-avatar-png-image_8855187.png",
+        "name": "Sunipa Bhowmick",
+        "rank": "Lecturer, CSE"
+    }
+]
