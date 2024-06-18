@@ -5,15 +5,15 @@ const validateMiddleware = require("../middleware/validate.middleware");
 const signUpSchema = require("../validators/auth.validator");
 const authMiddleware = require("../middleware/auth.middleware");
 
-router.route("/").get(authControllerAllPage.homePage);
+router.route("https://clg-demo-project-frontend.onrender.com/").get(authControllerAllPage.homePage);
 
 router
-  .route("/register")
+  .route("https://clg-demo-project-frontend.onrender.com/register")
   .post(validateMiddleware(signUpSchema), authControllerAllPage.registerPage);
 
-router.route("/login").post(authControllerAllPage.loginPage);
+router.route("https://clg-demo-project-frontend.onrender.com/login").post(authControllerAllPage.loginPage);
 
-router.route("/user").get(authMiddleware, authControllerAllPage.user);
+router.route("https://clg-demo-project-frontend.onrender.com/user").get(authMiddleware, authControllerAllPage.user);
 
 module.exports = router;
 
