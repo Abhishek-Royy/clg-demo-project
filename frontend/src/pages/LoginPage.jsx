@@ -55,7 +55,7 @@ function LoginPage() {
     console.log(allUser);
 
     try {
-      const response = await fetch(`https://clg-demo-project-backend.onrender.com//api/v1/login`, {
+      const response = await fetch(`https://clg-demo-project-backend.onrender.com/api/v1/login`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
