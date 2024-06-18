@@ -11,7 +11,6 @@ import PackegePage from "./pages/PackegePage";
 import LogoutPage from "./pages/LogoutPage";
 import NotesPage from "./pages/NotesPage";
 import ExplorePage from "./pages/ExplorePage";
-import Code_Editor from "./pages/editor/Code_Editor";
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
 
@@ -44,7 +43,7 @@ const App = () => {
           <Route path="/explore" element={<ExplorePage />} />
           <Route path="/forgotpassword" element={<ForgotPassword />} />
           <Route path="/forgotpassword/resetpassword" element={<ResetPassword />} />
-          <Route path="/editor/happy_editor" element={<Code_Editor />} />
+       
           <Route path="/footer/refundPolicy" element={<RefundPolicy />} />
           <Route path="/footer/termCondition" element={<TermCondition />} />
           <Route path="/footer/privacypolicy" element={<PrivacyPolicy />} />
