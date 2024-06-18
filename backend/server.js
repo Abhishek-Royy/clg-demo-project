@@ -11,7 +11,7 @@ const errorMiddleware = require("./middleware/error.middleware");
 // USE MIDDLEWARE
 
 var corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://clg-demo-project-frontend.onrender.com/",
   methods: "GET,POST,PUT,DELETE,PATCH",
   credentials: true,
 };
