@@ -7,7 +7,7 @@ const AdminUsers = () => {
 
   const getAllUserData = async () => {
     try {
-      const response = await fetch(`http://localhost:5000/api/admin/users`, {
+      const response = await fetch(`https://clg-demo-project-backend.onrender.com/api/admin/users`, {
         method: "GET",
         headers: {
           Authorization: authorizationToken,
